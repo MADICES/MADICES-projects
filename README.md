@@ -1,4 +1,8 @@
-# MADICES-projects
+<div align="center">
+
+<a href="https://madices.github.io"><img src="https://madices.github.io/img/svg/c_no_bg.svg" width="300px"></a>
+
+# MADICES 2024 Projects
 
 A place for attendees of the MADICES 2024 workshop to hack on projects.
 
